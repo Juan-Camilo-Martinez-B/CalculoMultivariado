@@ -1,7 +1,7 @@
 # 🧮 GeoCalculus Multivariable
 
-![Interfaz de la Aplicación](https://i.imgur.com/ABC1234.png)  
-*Interfaz gráfica del aplicativo con colores naranja/negro*
+![image](https://github.com/user-attachments/assets/50f7d31e-a4db-4866-ba3d-6b4f72b12caf)
+
 
 Aplicación interactiva para cálculo multivariable desarrollada en Python. Permite visualizar funciones 2D/3D, calcular derivadas parciales, gradientes y más, con un enfoque pedagógico y orientado a objetos.
 
